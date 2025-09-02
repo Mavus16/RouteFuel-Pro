@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FuelCalc - Route Fuel Calculator
 
 A modern React application for calculating fuel costs and finding gas stations along routes. Built with React, TypeScript, Tailwind CSS, and Google Maps integration.
@@ -171,3 +172,7 @@ No environment variables are required for basic functionality. The Google Maps A
 ## License
 
 This project is licensed under the MIT License.
+=======
+# RouteFuel-Pro
+A fuel cost and route planner for US truck drivers. Save 10–15% on annual fuel costs with optimized routes that account for vehicle weight and fuel type. Get real-time fuel stop pricing and a visual map for efficient planning. Built with a Vercel frontend and n8n backend automation.
+>>>>>>> e40145011dc09230c9a50b307fbffdd0ef89a34d
