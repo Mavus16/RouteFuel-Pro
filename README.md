@@ -47,7 +47,7 @@ A modern React application for calculating fuel costs and finding gas stations a
    - Enable the following APIs:
      - Maps JavaScript API
      - Places API
-   - Replace `YOUR_GOOGLE_MAPS_API_KEY` in `index.html` with your actual API key
+Added Vite environment variable (VITE_GOOGLE_MAPS_API_KEY) import in index.html for API key management.
 
 4. **Start the development server**
    ```bash
@@ -169,10 +169,8 @@ No environment variables are required for basic functionality. The Google Maps A
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
 
-This project is licensed under the MIT License.
 =======
 # RouteFuel-Pro
 A fuel cost and route planner for US truck drivers. Save 10–15% on annual fuel costs with optimized routes that account for vehicle weight and fuel type. Get real-time fuel stop pricing and a visual map for efficient planning. Built with a Vercel frontend and n8n backend automation.
->>>>>>> e40145011dc09230c9a50b307fbffdd0ef89a34d
+>>>>>>> 
